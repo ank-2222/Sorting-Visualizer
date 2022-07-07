@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Sortingvisualizer from './algo/Sortingvisualizer';
+import Sortingvisualizer from './pages/Sortingvisualizer';
 
 function App() {
   return (
