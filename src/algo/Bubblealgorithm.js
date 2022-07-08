@@ -29,12 +29,13 @@ function bubbleSort(array, n, animations) {
       if (array[j] > array[j + 1]) {
         animations.push([j, j + 1]);                            //changing colour to red
         animations.push([j, j + 1]);
+
         let temp = array[j];
         animations.push([j, array[j + 1]]);
         animations.push([j + 1, temp]);                          //for swapping values of bar
         array[j] = array[j + 1];
         array[j + 1] = temp;                                     //for swapping values in original array
-       
+
       }
     }
   }
