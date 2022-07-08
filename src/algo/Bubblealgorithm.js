@@ -35,6 +35,7 @@ function bubbleSort(array, n, animations) {
         animations.push([j + 1, temp]);                          //for swapping values of bar
         array[j] = array[j + 1];
         array[j + 1] = temp;                                     //for swapping values in original array
+
       }
     }
   }
