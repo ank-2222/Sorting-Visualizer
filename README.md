@@ -5,7 +5,9 @@
 ![Screenshot 2022-07-08 122047](https://user-images.githubusercontent.com/76547947/177933945-986ab1ea-484a-4849-8a35-340e51dea3f1.png)
 
 ### `npm start`
-
+ 
+https://sortingzer.herokuapp.com/ 
+ 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
