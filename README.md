@@ -6,7 +6,7 @@
 
 ### `npm start`
  
-[https://sortingzer.herokuapp.com/ ](https://sortingzer.onrender.com/)
+https://sortingzer.onrender.com/
  
 Runs the app in the development mode.\
  [Link To Project](https://sortingzer.onrender.com/) to view it in your browser.
