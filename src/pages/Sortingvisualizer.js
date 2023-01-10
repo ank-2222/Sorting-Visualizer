@@ -1,7 +1,6 @@
 import "./Sortingvisualizer.css";
 import React from "react";
 import { mergeSortAlgorithm } from "../algo/Mergealgorithm";
-import bootstrap from "bootstrap";
 import { BubbleSortAlgorithm } from "../algo/Bubblealgorithm";
 import { insertionSortAlgorithm } from "../algo/insertionalgorithm";
 
