@@ -9,7 +9,7 @@
 https://sortingzer.herokuapp.com/ 
  
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+ [Link To Project](https://sortingzer.onrender.com/) to view it in your browser.
 
 
 ##📌Merge Sort:
